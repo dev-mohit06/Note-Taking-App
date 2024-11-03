@@ -92,7 +92,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**:
    Open your terminal or command prompt and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/dev-mohit06/note_taking_app.git
+   git clone https://github.com/dev-mohit06/note-taking-app.git
    ```
    Replace `yourusername` with your GitHub username.
 

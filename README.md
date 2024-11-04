@@ -97,7 +97,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd note_taking_app/src
+   cd note-taking-app/src
    ```
 
 ## Usage

@@ -94,7 +94,6 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/dev-mohit06/note-taking-app.git
    ```
-   Replace `yourusername` with your GitHub username.
 
 2. **Navigate to the Project Directory**:
    ```bash
